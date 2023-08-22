@@ -8,7 +8,7 @@
 
 
 ## ♣️ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniela Castrejon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-castrej%C3%B3n-ab7965282/?trk=public-profile-join-page) 
 
  
 
