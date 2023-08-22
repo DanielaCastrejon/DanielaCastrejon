@@ -8,8 +8,8 @@
 
 
 ## ♣️ Socials:
-[![LinkedIn]]([https://linkedin.com/in/Daniela Castrejo](https://www.linkedin.com/in/daniela-castrej%C3%B3n-ab7965282/?trk=public-profile-join-page
-Achievements)n) 
+[![LinkedIn]([https://www.linkedin.com/in/daniela-castrej%C3%B3n-ab7965282/?trk=public-profile-join-page
+Achievements])n) 
 
 
 # 💻 Tech Stack:
