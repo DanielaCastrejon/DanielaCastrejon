@@ -1,11 +1,10 @@
 #  🌑 About Me:
- 🌓Hello world!<br>
+ 🌓Hello world.js!!!!<br>
  🐺 I'm a passionate Front End Developer<br>
- 🐾 I like working in a team, I think several minds work better than one because you can see 
-    different perspectives<br>
- 🌙 I would like to learn MongoDB and Python<br>
- 🌟 Fun fact: I am a lawyer  (but is not so funny like be programer )<br>
- 🌈 Let´s make a better world together <br>
+ 🐾 I like to  work  in team.  I think several minds work better than one because you can see different perspectives<br>
+ 🌙 I would like to learn MongoDB and Python in the future<br>
+ 🌟 Fun fact: I am a lawyer (but is more funny to be a programer )<br>
+ 🌈 Let´s make a better world together <br>
 
 
 ## ♣️ Socials:
